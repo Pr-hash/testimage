@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+*
+body{
+  background-image: url("https://static.wixstatic.com/media/nsplsh_6549435546536569726330~mv2_d_5000_3500_s_4_2.jpg/v1/fill/w_2310,h_1617,al_c,q_90/Image%20by%20Luke%20Chesser.webp");
+}
+.text{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+.tplink{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
